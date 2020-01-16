@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloKitty</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="cat">Введите имя кота:</string>
+    <string name="image_cat">cat</string>
+    <string name="input_Name">Введите имя кота:</string>
+    <string name="name_catt">Name</string>
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="abouy_title">О программе</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="third">Третье измерение!</string>
+</resources>
